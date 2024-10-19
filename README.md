@@ -12,7 +12,7 @@ npm install jsdoc-signals-plugin
 
 ## Usage
 
-Add the plugin to your JSDoc configuration:
+Add the plugin to your JSDoc configuration file `jsdoc.json`:
 
 ```json
 {
