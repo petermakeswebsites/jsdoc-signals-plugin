@@ -1,0 +1,29 @@
+{
+  "name": "jsdoc-signals-plugin",
+  "version": "0.0.1",
+  "description": "A very simple JSDoc plugin for annotating signals similar to how throwable functions are annotated in JSDoc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Peter Batory-Bernardin",
+  "license": "MIT",
+  "keywords": [
+    "jsdoc",
+    "plugin",
+    "reactive",
+    "signal",
+    "documentation"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/petermakeswebsites/jsdoc-reactive-plugin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/petermakeswebsites/jsdoc-reactive-plugin/issues"
+  },
+  "homepage": "https://github.com/petermakeswebsites/jsdoc-reactive-plugin#readme",
+  "devDependencies": {
+    "jsdoc": "^4.0.0"
+  }
+}
