@@ -17,12 +17,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/petermakeswebsites/jsdoc-reactive-plugin.git"
+    "url": "https://github.com/petermakeswebsites/jsdoc-signals-plugin.git"
   },
   "bugs": {
-    "url": "https://github.com/petermakeswebsites/jsdoc-reactive-plugin/issues"
+    "url": "https://github.com/petermakeswebsites/jsdoc-signals-plugin/issues"
   },
-  "homepage": "https://github.com/petermakeswebsites/jsdoc-reactive-plugin#readme",
+  "homepage": "https://github.com/petermakeswebsites/jsdoc-signals-plugin#readme",
   "devDependencies": {
     "jsdoc": "^4.0.0"
   }
